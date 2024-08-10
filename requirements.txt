@@ -1,3 +1,4 @@
+#pip install -r requirements.txt
 pywin32
 opencv-python
 PyQt5
