@@ -4,3 +4,4 @@ opencv-python
 PyQt5
 PyAutoGUI
 pillow
+pyinstaller

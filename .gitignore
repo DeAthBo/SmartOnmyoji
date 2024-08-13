@@ -1,3 +1,6 @@
 Release
 modules/__pycache__
+modules/click_log
 .history
+build
+modules/config.ini
